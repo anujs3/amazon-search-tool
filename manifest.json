@@ -1,0 +1,20 @@
+{
+  "name": "Amazon Search Tool",
+  "author": "Anuj Shah",
+  "description": "Easily find books, movies, electronics, and more on Amazon.",
+  "version": "1.0",
+  "icons":
+  {
+	"16": "16.png",
+	"32": "32.png",
+	"48": "48.png",
+	"128": "128.png"
+  },
+  "browser_action": 
+  {
+    "default_icon": "amazon.png",
+    "default_popup": "popup.html",
+    "default_title": "Search on Amazon!"
+  },
+  "manifest_version": 2
+}
